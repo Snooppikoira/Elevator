@@ -1,0 +1,9 @@
+{
+    "target": {
+        "UseElevator": "Käytä hissiä"
+    },
+    "notify": {
+        "Label": "Hissi",
+        "Description": "Olet tässä kerroksessa"
+    }
+}

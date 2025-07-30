@@ -1,0 +1,9 @@
+{
+    "target": {
+        "UseElevator": "Use elevator"
+    },
+    "notify": {
+        "Label": "Elevator",
+        "Description": "You are already on this floor"    
+    }
+}
